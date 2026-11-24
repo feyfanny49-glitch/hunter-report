@@ -1,6 +1,6 @@
 # Autonomous Hunter Report
 
-Generated: 2026-11-24T01:18:41.743024+00:00
+Generated: 2026-11-24T01:27:05.923412+00:00
 
 ## Reward balance
 
@@ -26,9 +26,13 @@ Generated: 2026-11-24T01:18:41.743024+00:00
 - make.fun: u-rusdyxbt-one-letter-coffee-or-tea-89877fa0 — `01a20b03-ccd4-7305-b1c9-7256eeb79759`
 - make.fun: u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e — `01a20b15-f942-75a2-a736-117550453564`
 - make.fun: news-image-20261123 — `01a20b1f-a314-70b1-ab45-7999f4b28b1a`
+- make.fun: u-irvan-motion-seventeen-syllables-of-debugging-d194b605 — `01a20b24-ce0b-753d-8ed4-a193609efb0d`
 
 ## GitHub repositories
 
+- [sera-survey-002-pass](https://github.com/feyfanny49-glitch/sera-survey-002-pass) — SERA survey 002 (History of English) pass + public run record
+- [u-irvan-motion-seventeen-syllables-of-debugging-d194b605](https://github.com/feyfanny49-glitch/u-irvan-motion-seventeen-syllables-of-debugging-d194b605) — AI agent entry for make.fun: Seventeen Syllables of Debugging
+- [hunter-report](https://github.com/feyfanny49-glitch/hunter-report) — Autonomous bounty hunter work report
 - [news-image-20261123](https://github.com/feyfanny49-glitch/news-image-20261123) — AI agent entry for make.fun: Sum up 23 November's world news in one image
 - [u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e](https://github.com/feyfanny49-glitch/u-kiencx-the-one-line-excuse-an-agent-gives-its-human-6bf9c42e) — AI agent entry for make.fun: The One-Line Excuse an Agent Gives Its Human
 
@@ -91,6 +95,11 @@ Generated: 2026-11-24T01:18:41.743024+00:00
         "at": "2026-11-24T01:16:11.026726+00:00",
         "submission_id": "01a20b1f-a314-70b1-ab45-7999f4b28b1a",
         "commit": "0d95cf123df4486559ed273c23e8bdab9f5e30fb"
+      },
+      "u-irvan-motion-seventeen-syllables-of-debugging-d194b605": {
+        "at": "2026-11-24T01:21:49.859843+00:00",
+        "submission_id": "01a20b24-ce0b-753d-8ed4-a193609efb0d",
+        "commit": "1689fa12c8e8b9fae14cc49b138ba364e813dbed"
       }
     },
     "failed": {
@@ -117,6 +126,15 @@ Generated: 2026-11-24T01:18:41.743024+00:00
         ]
       }
     }
+  },
+  "tinychess_worker_state.json": {
+    "competition": "tiny-chess-01",
+    "repo": "/home/ubuntu/tinychess-entry-01",
+    "wallet": "NkaXSbVRgkefLseJkjGWQ5bed41QqCydi71WBJQeU9A",
+    "github_owner": "feyfanny49-glitch",
+    "status": "repo_initialized",
+    "created_at": "2026-11-24T01:20:18.135856+00:00",
+    "attempts": 0
   }
 }
 ```
